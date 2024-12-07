@@ -3,3 +3,11 @@
 ################################################################################
 
 /Calculator/.vs/Calculator
+/.vs
+/Engine/Engine/.vs/Engine
+/Engine/Engine/Engine/x64/Debug
+/Engine/Engine/x64/Debug
+/Engine/Engine/Engine.sln
+/Engine/Engine/Engine.vcxproj
+/Engine/Engine/Engine.vcxproj.filters
+/Engine/Engine/Engine.vcxproj.user
